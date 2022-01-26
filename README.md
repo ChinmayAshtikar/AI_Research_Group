@@ -1,5 +1,5 @@
 # AI Research Group
-AI Research Group
+*AI Research Group*  
 
 The Northeastern AI Research Group (known as NEU AI Skunkworks) is a student group focused on teaching innovative, creative, and critical thinking skills. The work focuses on three core domains: publishing papers and Medium style articles related to AI, Kaggle competitions and data sets, and entrepreneurship.
 
