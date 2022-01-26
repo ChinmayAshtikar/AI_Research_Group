@@ -19,7 +19,7 @@ AI Skunkworks offers four kinds of mentorship:
 
 The AI Research Group is focused on publishing articles related to AI. 
 
-![AI Research Group](https://github.com/nikbearbrown/AI_Research_Group/tree/main/IMG/AI_Research_Group.jpg?raw=true)
+![AI Research Group](https://github.com/nikbearbrown/AI_Research_Group/raw/main/IMG/AI_Research_Group.jpg)
 
 
 ## Contributing the open-source projects    
