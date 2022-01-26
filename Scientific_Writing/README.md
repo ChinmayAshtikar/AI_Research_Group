@@ -28,7 +28,7 @@ document**.
 
 
 ## Paper Structure and Authorship
-- [Vanderbilt Components of a scientific paper](https://researchguides.library.vanderbilt.edu/c.php?g=69346&p=831743)
+- [Vanderbilt - Components of a scientific paper](https://researchguides.library.vanderbilt.edu/c.php?g=69346&p=831743)
 - [Yale Guidance on Authorship in Scholarly or Scientific Publications](https://provost.yale.edu/policies/academic-integrity/guidance-authorship-scholarly-or-scientific-publications)
 
 ## Word Processors
