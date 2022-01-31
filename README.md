@@ -1,9 +1,10 @@
 # AI Research Group
 *AI Research Group*  
 
-The Northeastern AI Research Group (known as NEU AI Skunkworks) is a student group focused on teaching innovative, creative, and critical thinking skills. The work focuses on four core domains: publishing papers and Medium style articles related to AI, contributing to open source-projects, Kaggle competitions, notebooks and data sets, and entrepreneurship.
+The Northeastern AI Research Group (known as NEU AI Skunkworks) is a student group focused on teaching innovative, creative, and critical thinking skills. The work focuses on four core domains: publishing papers and Medium style articles related to AI, contributing to open source projects, Kaggle competitions, notebooks, data sets, and entrepreneurship.
 
-Teaching creative, and critical thinking still lags the success of teaching technical knowledge. In the STEM fields which are the catalyst of the artificial intelligence revolution there are no respected part-time PhD programs. The apprenticeship learning model, the process of learning by mentorship from an expert has been shown to be effective in fields ranging from engineering to art. This model has produced some exceptional thinkers and nearly every PhD ever granted a STEM degree.
+Teaching creative, and critical thinking still lags the success of teaching technical knowledge. In the STEM fields which are the catalyst of the artificial intelligence revolution, there are no respected part-time PhD programs. In the apprenticeship learning model, the process of learning by mentorship from an expert has been shown to be effective in fields ranging from engineering to art. This model has produced some exceptional thinkers and nearly every PhD ever granted a STEM degree.
+
 
 AI Skunkworks offers four kinds of mentorship:
 
