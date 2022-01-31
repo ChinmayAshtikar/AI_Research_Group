@@ -26,11 +26,23 @@ Students and alumni meet with students from the D'Amore-McKim School of Business
 
 For more information https://github.com/nikbearbrown/AI_Research_Group
 
+## How to join NEU AI Skunkworks
 
+For those students interested in NEU AI Skunkworks please join the student group, it helps getting some student funding and there are some opportunities only open to NEU students.
 
+How to Register as a Skunk for AI Skunkworks on NU Engage Website https://youtu.be/Vgv0m2skSYo
 
+Note: If you are an alum or professional who wants to work with students then just join the Slack channels.
+
+## Slack Channels
+
+NEU AI Skunkworks Slack https://bit.ly/3geAeps
+
+NEU AI Skunkworks Entrepreneurship Slack https://bit.ly/341b1MK
 
 ## Publishing articles related to AI   
+
+Students and alumni write articles in publications such as Medium and Arxiv.org to Nature.
 
 The AI Research Group is focused on publishing articles related to AI. 
 
@@ -39,9 +51,14 @@ The AI Research Group is focused on publishing articles related to AI.
 
 ## Contributing the open-source projects    
 
+The Klee project is an open-source project focused on creating visual tools for AI. See http://klee.ai/
 
 ## Kaggle competitions    
 
+Students and alumni form groups that create Kaggle datasets, notebooks and compete in competitions.
 
 ##  Entrepreneurship   
+
+Students and alumni meet with students from the D'Amore-McKim School of Business at Northeastern University and create viable prototypes to raise money for a business.
+
 
