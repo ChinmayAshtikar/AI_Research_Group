@@ -63,5 +63,8 @@ Students and alumni meet with students from the D'Amore-McKim School of Business
 
 ![Artificial Intelligence Entrepreneurship Group](https://github.com/nikbearbrown/AI_Research_Group/raw/main/IMG/Artificial_Intelligence_Entrepreneurship_Group.png)
 
+##  Artificial Intelligence Entrepreneurship Group slides
+
+Artificial Intelligence Entrepreneurship Group slides  https://bit.ly/3KX5gjC
 
 ![AI Research Group Robo](https://github.com/nikbearbrown/AI_Research_Group/raw/main/IMG/Robo_Poster_One_Sp22.png)
