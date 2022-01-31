@@ -61,4 +61,7 @@ Students and alumni form groups that create Kaggle datasets, notebooks and compe
 
 Students and alumni meet with students from the D'Amore-McKim School of Business at Northeastern University and create viable prototypes to raise money for a business.
 
+![Artificial Intelligence Entrepreneurship Group](https://github.com/nikbearbrown/AI_Research_Group/raw/main/IMG/Artificial_Intelligence_Entrepreneurship_Group.png)
 
+
+![AI Research Group Robo](https://github.com/nikbearbrown/AI_Research_Group/raw/main/IMG/Robo_Poster_One_Sp22.png)
